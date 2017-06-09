@@ -6,3 +6,8 @@
 body.coder1{
   background-color: lightblue;
 }
+.theMessage{
+  height: 5em;
+  width: 10em;
+  background-color: floralwhite;
+}
